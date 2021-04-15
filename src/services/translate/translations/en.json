@@ -1,0 +1,28 @@
+{
+  "buttons": {
+    "signUp": "Sign Up",
+    "logIn": "Login",
+    "logOut": "Logout",
+    "toggleTheme": "Toggle Theme",
+    "close": "Close",
+    "github": "Github",
+    "fakeLogIn": "Fake Login"
+  },
+
+  "notes": {
+    "title": "Notes"
+  },
+
+  "noteDetails": {
+    "title": "Note details"
+  },
+
+  "login": {
+    "title": "Login"
+  },
+
+  "example": {
+    "title": "Example",
+    "text": "Example Text"
+  }
+}
