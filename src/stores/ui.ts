@@ -3,7 +3,7 @@ import { isSynchronized, persistence } from 'mobx-persist-store';
 import { storageAdapter } from './hydration';
 
 class UIStore {
-  themeMode: ThemeMode = 'light';
+  themeMode: ThemeMode = 'dark';
   themeModeEmoji = () => { return this.themeMode === 'dark' ? '🌝' : '🌚' }
   setThemeMode = (v: ThemeMode) => { this.themeMode = v; }
   toggleThemeMode = () => { this.themeMode = this.themeMode === 'dark' ? 'light' : 'dark'; }
