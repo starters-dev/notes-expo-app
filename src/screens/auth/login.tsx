@@ -49,7 +49,7 @@ const LoginScreen: React.FC<LoginScreenProps> = observer(({
   };
 
   const openTutorial = () => {
-    Linking.openURL('https://kanzitelli.medium.com');
+    Linking.openURL(C.links.medium);
   };
 
   const tryDemo = () => {

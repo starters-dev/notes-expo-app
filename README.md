@@ -4,7 +4,7 @@
 
 This app is created to show [Parse Platform](https://parseplatform.com) ([parse-server-starter](https://github.com/kanzitelli/parse-server-starter)) as BaaS and bootstrapped from [expo-starter](https://github.com/kanzitelli/expo-starter).
 
-Check out [Medium article]() for more details.
+Check out [Medium article](https://kanzitelli.medium.com/rapid-backend-as-a-service-baas-for-web-mobile-apps-915427198f43) for more details.
 
 ## Try it
 - App - [Expo](https://expo.io/@kanzitelli/projects/notes-expo-app)

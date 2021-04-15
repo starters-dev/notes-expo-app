@@ -19,7 +19,8 @@ const useConstants = () => {
 
     links: {
       github: 'https://github.com/kanzitelli/expo-starter',
-      demo: 'https://6b24440dd58f.ngrok.io/parse'
+      demo: 'https://6b24440dd58f.ngrok.io/parse',
+      medium: 'https://kanzitelli.medium.com/rapid-backend-as-a-service-baas-for-web-mobile-apps-915427198f43',
     }
   };
 }
